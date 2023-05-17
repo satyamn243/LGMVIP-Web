@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@satyamn243 
-chinmay444
-/
-LGMVIP-Web
-Public
-Fork your own copy of chinmay444/LGMVIP-Web
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-LGMVIP-Web/todo-LGM/todoapp.js /
-@chinmay444
-chinmay444 Add files via upload
-Latest commit 87d352a last week
- History
- 1 contributor
-55 lines (49 sloc)  1.88 KB
-
 let input = document.querySelector('#input');
 let list = document.querySelector('#list');
 let errorText = document.querySelector('#error-text');
